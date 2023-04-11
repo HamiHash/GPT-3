@@ -1,4 +1,4 @@
-# this is a landing page for GPT-3 bot
+# This is a landing page for GPT-3 bot
 
 This project is built with React, converted from a figma design. 
 
