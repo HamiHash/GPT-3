@@ -113,3 +113,15 @@ a {
     padding: 4rem 2rem;
   }
 }
+
+@media screen and (min-width: 1440px) {
+  .App {
+    margin: 0 5rem;
+  }
+}
+
+@media screen and (min-width: 2000px) {
+  .App {
+    margin: 0 10rem;
+  }
+}
