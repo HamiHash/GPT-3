@@ -34,7 +34,7 @@
 .gpt3__features-container {
   flex: 1.5;
   display: flex;
-  justify-content: start;
+  justify-content: flex-start;
   align-self: center;
   flex-direction: column;
 }
